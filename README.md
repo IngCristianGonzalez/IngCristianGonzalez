@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Cristian Jussep Alarcón González
+# 👋 ¡Hola! Soy Cristian Jussep Alarcón Gonzáles
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+en+formación;Desarrollador+FullStack;Aprendiz+de+Ciencia+de+Datos;Apasionado+por+la+nube+y+las+Bases+de+Datos" alt="Typing SVG" />
@@ -64,7 +64,7 @@
 
 - 🔭 Profundizando en **Java** y **Arquitectura de Software**
 - ☁️ Explorando servicios de **AWS** (EC2, RDS, S3)
-- 🗄️ Trabajando con **Java y microservicios** y **Optimización en bases de datos** en proyectos empresariales
+- 🗄️ Trabajando con **PostgreSQL** y **SQL Server** en proyectos empresariales
 - 📊 Mejorando mis habilidades en **Ciencia de Datos** con Python
 
 ---
