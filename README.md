@@ -2,7 +2,7 @@
 - 👋 Hola, mi nombre es Cristian Jussep Alarcón Gonzaléz.
 - 👀 Soy un apasionado por la tecnología y el trabajo colaborativo en las organizaciones.
 - 🌱 Estudiante de ingeniería de sistemas en: https://www.unicesar.edu.co/index.php/es/
-- 💻 Desarrollador Web en Laravel
+- 💻 Desarrollador Web en Laravel | Java 
 - ⚡Desarrollador FullStack | Laravel  |Angular | Nodejs | Java |
 - 📅 Cientifico de datos jr | Powerbi | Dax | Python |
 
