@@ -1,11 +1,12 @@
-# 👋 ¡Hola! Soy Cristian Jussep Alarcón Gonzáles
+# 👋 ¡Hola! Soy Cristian Jussep Alarcón González
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=500&color=2E9AFE&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+en+formación;Desarrollador+FullStack;Aprendiz+de+Ciencia+de+Datos;Apasionado+por+la+nube+y+las+Bases+de+Datos" alt="Typing SVG" />
+  <h3> Ingeniero de Sistemas | Desarrollador FullStack | Laravel | Angular | Java | Cientifico de datos Jr </h3>
 </div>
 
+
 💻 **Apasionado por la tecnología, el desarrollo de software y el trabajo colaborativo**  
-🎓 Estudiante de **Ingeniería de Sistemas** en la [Universidad Popular del Cesar](https://www.unicesar.edu.co/index.php/es/)  
+🎓 Egresado en **Ingeniería de Sistemas** de la [Universidad Popular del Cesar](https://www.unicesar.edu.co/index.php/es/)  
 ☁️ Explorando el mundo del **Cloud Computing** y **Bases de Datos**  
 📍 Colombia
 
@@ -62,9 +63,9 @@
 
 ## 🎯 Actualmente
 
-- 🔭 Profundizando en **Java** y **Arquitectura de Software**
+- 🔭 Profundizando en **Java y microservicios** y **Arquitectura de Software**
 - ☁️ Explorando servicios de **AWS** (EC2, RDS, S3)
-- 🗄️ Trabajando con **PostgreSQL** y **SQL Server** en proyectos empresariales
+- 🗄️ Trabajando con **Java y laravel en migración de un SAAS** y **Postgresql** en proyectos empresariales
 - 📊 Mejorando mis habilidades en **Ciencia de Datos** con Python
 
 ---
